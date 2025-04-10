@@ -4,7 +4,7 @@
 
 # Addons
 
-### **・**Mekanism: Advanced Core ( [URL](https://www.curseforge.com/minecraft/mc-mods/mekanism-advanced-core) )
+### **・** Mekanism: Advanced Core ( [URL](https://www.curseforge.com/minecraft/mc-mods/mekanism-advanced-core) )
 
 # Recipes
 
